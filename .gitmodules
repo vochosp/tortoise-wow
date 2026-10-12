@@ -1,0 +1,4 @@
+[submodule "modules/TortoiseBots"]
+	path = modules/TortoiseBots
+	url = https://github.com/vochosp/TortoiseBots.git
+	branch = thesis
